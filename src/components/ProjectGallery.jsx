@@ -9,19 +9,19 @@ export default function ProjectGallery() {
       title: "Campus Marketplace Cross-Platform App",
       description: "A cross-platform mobile and web application designed with a registration workflow, custom UI components, and real-time state management.",
       tags: ["Flutter", "Dart", "UI/UX"],
-      link: "https://github.com/yourusername/mobile-attendance"
+      link: "https://github.com/alexxwong/campus_bazaar"
     },
     {
       title: "Conference Room Booking System",
       description: "A web-based application for managing conference room reservations, featuring user authentication, calendar integration, and an admin dashboard.",
       tags: ["Springboot", "Angular", "MySQL"],
-      link: "https://github.com/yourusername/student-portal"
+      link: "https://github.com/STIWK2124-A251/assignment-3-biscuit3"
     },
     {
       title: "Personal Portfolio Website",
       description: "A responsive portfolio website built with React, showcasing projects, skills, and a contact form, designed with a modern and minimalist aesthetic.",
       tags: ["React", "tailwindcss", "JavaScript"],
-      link: "https://github.com/yourusername/os-simulator"
+      link: "https://github.com/alexxwong/portfolio"
     }
   ];
 

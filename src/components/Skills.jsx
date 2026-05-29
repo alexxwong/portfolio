@@ -25,7 +25,7 @@ export default function Skills() {
           <span className="text-primary-500">#</span>skills
         </h2>
       
-        <div className="h-[1px] w-full max-w-[200px] bg-zinc-800"></div>
+        <div className="h-[1px] w-full bg-zinc-800"></div>
       </div>
 
 
