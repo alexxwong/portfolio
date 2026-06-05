@@ -19,7 +19,7 @@ export default function About() {
             Hello! I'm a final year software engineering student. 
             I enjoy building responsive, logic-driven applications from scratch and turning complex problems into clean, modern user interfaces.
           </p>
-          <a href="./alex's_resume.pdf" target="_blank" className="inline-flex items-center gap-2 border border-zinc-700 px-4 py-2 font-mono text-sm text-gray-300 hover:text-primary-400 hover:border-primary-500 transition-all">
+          <a href={`${import.meta.env.BASE_URL}alex's_resume.pdf`} target="_blank" className="inline-flex items-center gap-2 border border-zinc-700 px-4 py-2 font-mono text-sm text-gray-300 hover:text-primary-400 hover:border-primary-500 transition-all">
             [ Download Resume ]
           </a>
         </div>
