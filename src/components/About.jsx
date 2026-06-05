@@ -5,6 +5,7 @@ export default function About() {
       <div className="flex items-center gap-4 mb-12">
         <h2 className="font-mono text-2xl md:text-3xl font-bold text-gray-100 whitespace-nowrap">
           <span className="text-primary-500">#</span>about me
+          
         </h2>
         {/* This line now sits after the text and stretches indefinitely */}
         <div className="h-[1px] w-full bg-zinc-800"></div>
@@ -18,7 +19,7 @@ export default function About() {
             Hello! I'm a final year software engineering student. 
             I enjoy building responsive, logic-driven applications from scratch and turning complex problems into clean, modern user interfaces.
           </p>
-          <a href="/alex's resume.pdf" target="_blank" className="inline-flex items-center gap-2 border border-zinc-700 px-4 py-2 font-mono text-sm text-gray-300 hover:text-primary-400 hover:border-primary-500 transition-all">
+          <a href="./alex's_resume.pdf" target="_blank" className="inline-flex items-center gap-2 border border-zinc-700 px-4 py-2 font-mono text-sm text-gray-300 hover:text-primary-400 hover:border-primary-500 transition-all">
             [ Download Resume ]
           </a>
         </div>
